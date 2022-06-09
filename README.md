@@ -2,7 +2,7 @@
 Projeto Integrador do 1º Semestre de Análise e Desenvolvimento de Sistemas FATEC-2020
 
 ## Resumo do projeto:
-Safety Locker é é um dispositivo inteligente que preza pelo controle e segurança de clientes associados. Utilazando uma tag podemos administrar a entrada e saída de funcionários em determinados setores da empresa. Controlando data e hora, além de, níveis de acesso restringingo funcionários não autorizados a acessarem setores diversos.
+Safety Locker é é um dispositivo inteligente que preza pelo controle e segurança de clientes associados. Utilizando uma tag podemos administrar a entrada e saída de funcionários em determinados setores da empresa. Controlando data e hora, além de, níveis de acesso restringingo funcionários não autorizados a acessarem setores diversos.
 
 ## Cliente:
 Neste primeiro prrojeto nosso cliente foi a própria FATEC Prof. Jessen Vidal, o que facilitou a comunicação e nos introduziu ao meio do desenvolvimento, colaborando com 
